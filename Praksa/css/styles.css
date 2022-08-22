@@ -1,0 +1,268 @@
+table {
+  margin: 0 16px;
+  width: 100%;
+  height: 100%;
+}
+
+h2 {
+  padding: 1% 2%;
+  color: #231955;
+}
+
+h3 {
+  color: #fff;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+
+.colored-section {
+  background-color: #3B9AE1;
+}
+
+.colored-section, .uncolored-section {
+  padding: 2% 0;
+}
+
+.section-filler {
+  margin-bottom: 2rem;
+}
+
+.language-list {
+    background: #E8F9FD;
+    float: right;
+    color: #A0D995;
+    font-weight: bold;
+    padding: 3px 3px;
+}
+
+.list-inline-item {
+  padding-right: 10px;
+
+}
+
+.logo-img {
+  height: 70px;
+  width: auto;
+  float: left;
+}
+
+.nav-list {
+  float: right;
+  color: #001c44;
+  margin-top: 30px;
+
+}
+
+.main-header {
+  border-bottom: 10px solid #A0D995;
+}
+
+.main-banner-div {
+  background-image: url("https://www.tz-krk.hr/images/SlideShowDolazna/08.jpg");
+  position: relative;
+  z-index: 0;
+}
+
+.find-accommodation-wrapper{
+  background-color: #3B9AE1;
+  margin-left: -10px;
+  margin-right: -10px;
+  position: relative;
+  top: -122px;
+  padding: 1.5rem 2rem 2.5rem;
+  display: flex;
+}
+
+.find-acc-button {
+  width: 170px;
+  padding: 2px 5px;
+  margin: 5px 20px;
+  background-color: #E9DAC1 !important;
+  color: #000 !important;
+  text-align: left !important;
+}
+
+.colored-section {
+  background-color: #B1E1FF;
+  padding: 2% 20%;
+}
+
+.uncolored-section {
+  padding: 2% 20%;
+}
+
+.bottom-section {
+  padding-bottom: 120px;
+}
+
+.main-banner {
+  width: 100%;
+  height: auto;
+}
+
+
+                                                   /* CAROUSEL CARDS */
+
+.cards-wrapper {
+  display: flex;
+}
+
+.card {
+  margin: 0.5rem 0.5rem;
+  text-align: left;
+  font-size: 1rem;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.three-cards {
+  width: calc(100%/3);
+}
+
+.four-cards {
+  width: calc(100%/4);
+}
+.card-img-top {
+    width: 100%;
+    height: 10vw;
+    object-fit: cover;
+}
+
+
+
+.apartman-price {
+  background-color: #FCF8E8;
+  padding: 5px 5px;
+  position: absolute;
+  bottom: 270px;
+  left: 150px;
+  font-weight: bold;
+
+}
+
+.card-title {
+  font-weight:bold;
+  text-align: center;
+}
+
+.icon-style {
+  color: #277BC0;
+  margin: 0 10px;
+  position: relative;
+  left: 10px;
+
+}
+
+
+.carousel-item {
+  padding: 2% 0;
+}
+                                                                  /* TABLES */
+
+.table-element {
+   height: 200px;
+   width: 300px;
+
+}
+
+.event-table-element {
+   height: 200px;
+   width: 300px;
+
+}
+
+.table-img {
+   width: 100%;
+   height: 100%;
+   object-fit: cover;
+   position: relative;
+   padding: 7px 7px;
+}
+
+.event-table-img {
+   width: 100%;
+   height: 100%;
+   object-fit: cover;
+   position: relative;
+   padding-right: 15px;
+}
+
+.mini-month {
+  background-color: #277BC0;
+  color: white;
+  font-size: 0.75rem;
+  text-align: center;
+  font-weight: bold;
+  padding: 2px 2px;
+}
+
+.event-date {
+  background-color: #E7F6F2;
+  color: #277BC0;
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+  border-bottom: 10px solid white;
+}
+
+.event-place {
+  text-align: left;
+  line-height: 0.5;
+  padding-left: 30px;
+  border-bottom: 10px solid white;
+}
+
+.event-title {
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+                                                                              /* FOOTER */
+
+.main-footer {
+    background: #277BC0;
+}
+
+.footer-db {
+  align-items: center;
+  display: flex;
+
+}
+
+.footer-lb {
+  padding: 10px 10px;
+}
+
+.logo-image {
+  width: 300px;
+  padding: 0 1.5rem;
+  position: relative;
+  left: 50px;
+}
+
+.green-footer-list {
+    color: #003865;
+    background-color: #A0D995;
+    text-align: center;
+    width: 100%;
+    padding: 10px 10px;
+    position: relative;
+    top: -38px;
+
+}
+
+
+.list_item {
+    color: #EAE509;
+    padding-bottom: 15px;
+}
+
+.contact-list {
+    display: inline-block;
+    border: 1.5rem transparent;
+    position: relative;
+    left: 150px;
+}
